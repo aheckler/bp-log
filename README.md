@@ -1,2 +1,3 @@
-# bp-logger
-Shell script to track your blood pressure
+# Blood Pressure Logger
+
+A shell script to track my blood pressure. :)
